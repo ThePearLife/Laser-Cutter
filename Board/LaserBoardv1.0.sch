@@ -8175,7 +8175,53 @@ Switches electronic signals</description>
 </sheet>
 </sheets>
 <errors>
+<approved hash="101,1,289.56,20.32,IC4E,O,,,,"/>
+<approved hash="101,1,317.5,20.32,IC4F,O,,,,"/>
+<approved hash="102,1,358.14,81.28,VSS,GND,,,,"/>
+<approved hash="102,1,358.14,83.82,VDD,3.3V,,,,"/>
+<approved hash="102,1,358.14,76.2,GND1,GND,,,,"/>
 <approved hash="202,1,236.22,180.34,U2,BP,,,,"/>
+<approved hash="104,1,60.96,111.76,U3,VCC,5V,,,"/>
+<approved hash="104,1,132.08,101.6,IC1,GND1,GND,,,"/>
+<approved hash="104,1,132.08,96.52,IC1,GND2,GND,,,"/>
+<approved hash="104,1,132.08,81.28,IC1,VCC2,12V,,,"/>
+<approved hash="104,1,162.56,116.84,IC1,VCC1,5V,,,"/>
+<approved hash="104,1,162.56,101.6,IC1,GND3,GND,,,"/>
+<approved hash="104,1,162.56,96.52,IC1,GND4,GND,,,"/>
+<approved hash="104,1,132.08,45.72,IC2,GND1,GND,,,"/>
+<approved hash="104,1,132.08,40.64,IC2,GND2,GND,,,"/>
+<approved hash="104,1,132.08,25.4,IC2,VCC2,12V,,,"/>
+<approved hash="104,1,162.56,60.96,IC2,VCC1,5V,,,"/>
+<approved hash="104,1,162.56,45.72,IC2,GND3,GND,,,"/>
+<approved hash="104,1,162.56,40.64,IC2,GND4,GND,,,"/>
+<approved hash="104,1,198.12,101.6,IC3,GND1,GND,,,"/>
+<approved hash="104,1,198.12,96.52,IC3,GND2,GND,,,"/>
+<approved hash="104,1,198.12,81.28,IC3,VCC2,12V,,,"/>
+<approved hash="104,1,228.6,116.84,IC3,VCC1,5V,,,"/>
+<approved hash="104,1,228.6,101.6,IC3,GND3,GND,,,"/>
+<approved hash="104,1,228.6,96.52,IC3,GND4,GND,,,"/>
+<approved hash="104,1,279.4,12.7,IC4P,VSS,GND,,,"/>
+<approved hash="104,1,279.4,27.94,IC4P,VDD,3.3V,,,"/>
+<approved hash="106,1,129.54,228.6,A0,,,,,"/>
+<approved hash="106,1,129.54,226.06,A1,,,,,"/>
+<approved hash="106,1,129.54,223.52,A2,,,,,"/>
+<approved hash="106,1,129.54,218.44,A4,,,,,"/>
+<approved hash="106,1,129.54,215.9,A5,,,,,"/>
+<approved hash="106,1,358.14,111.76,CD,,,,,"/>
+<approved hash="106,1,127,152.4,DP4,,,,,"/>
+<approved hash="106,1,129.54,220.98,N$21,,,,,"/>
+<approved hash="106,1,129.54,213.36,N$26,,,,,"/>
+<approved hash="106,1,129.54,210.82,N$27,,,,,"/>
+<approved hash="113,1,220.876,142.136,FRAME1,,,,,"/>
+<approved hash="113,1,217.499,58.1254,JP2,,,,,"/>
+<approved hash="113,1,217.499,42.8854,JP3,,,,,"/>
+<approved hash="113,1,217.499,27.6454,JP4,,,,,"/>
+<approved hash="113,1,282.177,104.366,JP5,,,,,"/>
+<approved hash="113,1,331.799,172.425,JP7,,,,,"/>
+<approved hash="113,1,54.9386,53.0454,JP6,,,,,"/>
+<approved hash="113,1,189.559,162.265,JP1,,,,,"/>
+<approved hash="115,1,189.23,246.38,12V,,,,,"/>
+<approved hash="115,1,299.72,227.33,VUSB,,,,,"/>
 </errors>
 </schematic>
 </drawing>
